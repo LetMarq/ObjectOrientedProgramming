@@ -2,4 +2,4 @@
 
 Final work of object-oriented programming together with SQL database, using wf.
 
-![OOP](https://imgur.com/a/ytuIcR3)
+![OOP](https://i.imgur.com/ApkEHW6.png)
